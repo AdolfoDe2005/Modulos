@@ -1,0 +1,230 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    background-color: #5cb85c;
+    color: #ffffff;
+    padding: 25px;
+    text-align: center;
+    font-size: 30px;     
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"], input[type="email"], input[type="number"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+
+input[type="submit"] {
+    margin: 10px 5px 0px 0px;
+    font-size: 15px;
+    background-color: #5cb85c;
+    color: white;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #4cae4c;
+}
+
+a.btn {
+  text-decoration:none;
+  position: relative;
+  top: 9px;
+  font-size: 20px;
+  background-color: #5cb85c;
+  color: white;
+  padding: 15px 25px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+  
+  
+a.btn :hover {
+    background-color: #0056b3;       
+}
+
+.btn3{
+    text-align: center;
+    color: white;                   
+    background-color: #5cb85c;       
+    border: none;                    
+    border-radius: 5px;              
+    text-decoration: none;           
+    cursor: pointer;
+    padding: 8px 8px 8px 8px;
+    font-size: 150%;
+    position: relative;
+}
+    
+
+.btn3:hover {
+    background-color: greenyellow;       
+}
+
+
+.btn4{
+    text-align: center;
+    color: white;                   
+    background-color: #5cb85c;       
+    border: none;                    
+    border-radius: 5px;              
+    text-decoration: none;           
+    cursor: pointer;
+    padding: 17px 30px 17px 30px;
+    font-size: 90%;
+    position: relative;
+    bottom: 68px;
+    left: 200px;
+}
+    
+    
+
+.btn4:hover {
+    background-color: greenyellow;       
+}
+
+p{
+    font-size: 120%;
+}
+
+.btn5{
+    text-align: center;
+    color: white;                   
+    background-color: #5cb85c;       
+    border: none;                    
+    border-radius: 5px;              
+    text-decoration: none;           
+    cursor: pointer;
+    padding: 16px 8px 16px 8px;
+    font-size: 100%;
+    position: relative;
+    top: 16px;
+    left: 5px;
+}
+    
+    
+.btn5:hover {
+    background-color: greenyellow;       
+}
+
+.btn6{
+    text-align: center;
+    color: white;                   
+    background-color: #5cb85c;       
+    border: none;                    
+    border-radius: 5px;              
+    text-decoration: none;           
+    cursor: pointer;
+    padding: 16px 8px 16px 8px;
+    font-size: 130%;
+    position: relative;
+    top: 20px;
+    left: 5px;
+}
+    
+    
+.btn6:hover {
+    background-color: greenyellow;       
+}
+
+.btn7{
+    text-align: center;
+    color: white;                   
+    background-color: #5cb85c;       
+    border: none;                    
+    border-radius: 5px;              
+    text-decoration: none;           
+    cursor: pointer;
+    padding: 16px 8px 16px 8px;
+    font-size: 130%;
+    position: relative;
+    top: 20px;
+    left: 5px;
+}
+    
+    
+.btn7:hover {
+    background-color: greenyellow;       
+}
+
+.btn8{
+    text-align: center;
+    color: white;                   
+    background-color: #5cb85c;       
+    border: none;                    
+    border-radius: 5px;              
+    text-decoration: none;           
+    cursor: pointer;
+    padding: 16px 8px 16px 8px;
+    font-size: 130%;
+    position: relative;
+    top: 20px;
+    left: 5px;
+}
+    
+    
+.btn8:hover {
+    background-color: greenyellow;       
+}
+
+
+.btn9{
+    text-align: center;
+    color: white;                   
+    background-color: #5cb85c;       
+    border: none;                    
+    border-radius: 5px;              
+    text-decoration: none;           
+    cursor: pointer;
+    padding: 16px 8px 16px 8px;
+    font-size: 130%;
+    position: relative;
+    top: 20px;
+    left: 5px;
+}
+    
+    
+.btn9:hover {
+    background-color: greenyellow;       
+}
+
+
+.btn10{
+    text-align: center;
+    color: white;                   
+    background-color: #5cb85c;       
+    border: none;                    
+    border-radius: 5px;              
+    text-decoration: none;           
+    cursor: pointer;
+    padding: 16px 8px 16px 8px;
+    font-size: 130%;
+    position: relative;
+    top: 10px;
+    left: 5px;
+}
+    
+    
+.btn10:hover {
+    background-color: greenyellow;       
+}
+
+

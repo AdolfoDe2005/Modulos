@@ -1,0 +1,80 @@
+h1 {
+    text-align: center;
+    background-color: #5cb85c;
+    color: #ffffff;
+    padding-bottom: 51px;
+    padding-top: 51px;
+    font-size: 51px;
+}
+
+table {
+    width: 100%;
+    height: 25%;
+}
+
+tr {
+    text-align: center;
+    color: #5cb85c;
+    font-size: 151%;
+}
+
+td{
+    background-color: #5cb85c;
+    color: white;
+}
+
+.btn{              
+    color: #5cb85c;                   
+    background-color: white;       
+    border: none;                    
+    border-radius: 5px;              
+    text-decoration: none;           
+    cursor: pointer;
+    padding: 8px 8px 8px 8px;
+    }
+
+.btn:hover {
+    background-color: greenyellow;       
+}
+
+.btn2{
+    text-align: center;
+    color: #5cb85c;                   
+    background-color: white;       
+    border: none;                    
+    border-radius: 5px;              
+    text-decoration: none;           
+    cursor: pointer;
+    padding: 8px 8px 8px 8px;
+    font-size: 100%;
+    margin-top: 10px;
+}
+
+.btn2:hover {
+    background-color: greenyellow;       
+}
+
+
+.btn3{
+    text-align: center;
+    color: white;                   
+    background-color: #5cb85c;       
+    border: none;                    
+    border-radius: 5px;              
+    text-decoration: none;           
+    cursor: pointer;
+    padding: 8px 8px 8px 8px;
+    font-size: 150%;
+    position: relative;
+    top: 20px
+}
+    
+
+.btn3:hover {
+    background-color: greenyellow;       
+}
+
+p{
+    font-size: 120%;
+    
+}
